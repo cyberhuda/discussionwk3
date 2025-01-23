@@ -1,0 +1,22 @@
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(182, 243, 187);
+  color: rgbrgb(5, 82, 14);
+}
+
+{header
+  font-size: 1.5em;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  color: rgb(5, 82, 14)
+}
+
+img {
+  max-width: 35%;
+  height: auto;
+  border: pink 5px solid;
+}
+
